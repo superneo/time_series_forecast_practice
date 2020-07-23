@@ -1,2 +1,2 @@
-# time_series_forecast_practice
+# time series forecast practice
 a practice repo for time series forecast
